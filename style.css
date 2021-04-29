@@ -1,0 +1,11 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  main div{
+      display: flex;
+  }
